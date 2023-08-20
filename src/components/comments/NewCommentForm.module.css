@@ -1,0 +1,45 @@
+.form {
+  margin-top: 1rem;
+  position: relative;
+  text-align: center;
+}
+
+.loading {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.control {
+  margin-bottom: 0.5rem;
+}
+
+.control label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.control textarea {
+  font: inherit;
+  padding: 0.35rem;
+  border-radius: 5px;
+  background-color: #dddddd;
+  border: 1px solid #c7beb4;
+  display: block;
+  width: 100%;
+  font-size: 1.3rem;
+}
+
+.control textarea:focus {
+  background-color: #decebd;
+  outline-color: #f48405;
+}
+
+.actions button {
+  font-size: 1.3rem;
+}

@@ -1,0 +1,15 @@
+.no-jokes {
+  height: 20rem;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.no-jokes p {
+  font-size: 3rem;
+  font-weight: bold;
+}
