@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jokes-app/static/css/main.2c035564.css",
+    "main.js": "/jokes-app/static/js/main.98c1f9a1.js",
+    "index.html": "/jokes-app/index.html",
+    "main.2c035564.css.map": "/jokes-app/static/css/main.2c035564.css.map",
+    "main.98c1f9a1.js.map": "/jokes-app/static/js/main.98c1f9a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c035564.css",
+    "static/js/main.98c1f9a1.js"
+  ]
+}
